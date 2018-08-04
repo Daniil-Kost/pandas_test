@@ -1,0 +1,854 @@
+,name,type,age,survived,boat
+0,Karun,0,21.5,2.0,"15, 15, "
+1,Van,0,34.25,0.0,"nan, nan, nan, nan, "
+2,Harper,0,32.75,0.0,"3, 3, 11, nan, "
+3,Zakarian,0,26.75,0.0,"nan, nan, "
+4,Moor,0,16.5,2.0,"14, 14, "
+5,Dodge,0,37.0,2.0,"13, 5, 5, "
+6,Brown,0,40.333333333333336,2.0,"6, D, 11, 14, nan, 14, "
+7,Marvin,0,18.5,2.0,"nan, 10, "
+8,Hagland,0,,0.0,"nan, nan, "
+9,Beckwith,0,42.0,2.0,"5, 5, "
+10,Kimball,0,43.5,2.0,"5, 5, "
+11,Arnold,0,21.5,0.0,"nan, nan, "
+12,McCarthy,0,,2.0,"nan, 15 16, "
+13,Doling,0,26.0,2.0,"nan, nan, "
+14,Meyer,0,,0.0,"nan, 6, nan, "
+15,Howard,0,,2.0,"nan, nan, C, "
+16,Rice,0,11.666666666666666,0.0,"nan, nan, nan, nan, nan, nan, "
+17,McNamee,0,21.5,0.0,"nan, nan, "
+18,Klasen,0,18.333333333333332,0.0,"nan, nan, nan, "
+19,Rothschild,0,54.5,2.0,"nan, 6, "
+20,Bourke,0,,0.0,"nan, nan, nan, "
+21,Zabour,0,,0.0,"nan, nan, "
+22,Hippach,0,30.0,2.0,"4, 4, "
+23,Gibson,0,33.5,2.0,"7, 7, "
+24,Spencer,0,,2.0,"nan, 6, "
+25,Clark,0,26.5,2.0,"nan, 4, "
+26,Robins,0,48.5,0.0,"nan, nan, "
+27,Clarke,0,28.5,2.0,"nan, 14, "
+28,Peter,0,,2.0,"C, D, D, "
+29,Jussila,0,24.333333333333332,2.0,"nan, nan, 15, "
+30,Daly,0,36.666666666666664,2.0,"5 9, 15, 13 15 B, "
+31,Astor,0,32.5,2.0,"nan, 4, "
+32,Betros,0,,0.0,"nan, nan, "
+33,Cacic,0,26.75,0.0,"nan, nan, nan, nan, "
+34,Yasbeck,0,21.0,2.0,"C, nan, "
+35,Vander,0,28.6,0.0,"nan, nan, nan, nan, nan, "
+36,Greenfield,0,34.0,2.0,"7, 7, "
+37,Sage,0,,0.0,"nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, "
+38,del,0,26.5,2.0,"nan, 12, "
+39,Calic,0,17.0,0.0,"nan, nan, "
+40,Hirvonen,0,12.0,2.0,"15, 15, "
+41,Futrelle,0,36.0,2.0,"nan, D, "
+42,Renouf,0,32.0,2.0,"12, nan, "
+43,McGowan,0,25.0,0.0,"nan, nan, "
+44,Bonnell,0,44.0,2.0,"8, 8, "
+45,Aks,0,9.41665,2.0,"11, 13, "
+46,Chapman,0,39.333333333333336,0.0,"nan, nan, nan, "
+47,Ryan,0,,0.0,"14, nan, "
+48,Connolly,0,26.0,0.0,"13, nan, "
+49,Kelly,0,,0.0,"9, 16, D, nan, nan, "
+50,Cribb,0,30.5,0.0,"12, nan, "
+51,Ali,0,24.5,0.0,"nan, nan, "
+52,Skoog,0,18.333333333333332,0.0,"nan, nan, nan, nan, nan, nan, "
+53,Weisz,0,28.0,2.0,"nan, 10, "
+54,Smith,0,,0.0,"nan, nan, nan, 6, 9, nan, "
+55,Phillips,0,27.666666666666668,0.0,"12, 11, nan, "
+56,Elias,0,,0.0,"nan, nan, nan, nan, "
+57,White,0,43.333333333333336,2.0,"nan, nan, 8, "
+58,Jonsson,0,29.5,0.0,"15, nan, "
+59,Harris,0,43.0,0.0,"nan, D, 15, nan, "
+60,Burns,0,29.5,0.0,"3, nan, "
+61,Nakid,0,13.333333333333334,2.0,"C, C, C, "
+62,Rogers,0,,0.0,"nan, nan, "
+63,Samaan,0,,0.0,"nan, nan, nan, "
+64,Jefferys,0,23.0,0.0,"nan, nan, "
+65,Thomas,0,,2.0,"16, nan, nan, nan, 14, "
+66,Braund,0,25.5,0.0,"nan, nan, "
+67,Khalil,0,,0.0,"nan, nan, "
+68,Hickman,0,25.666666666666668,0.0,"nan, nan, nan, "
+69,Snyder,0,23.5,2.0,"7, 7, "
+70,Hocking,0,33.25,2.0,"4, nan, nan, 4, "
+71,Goldsmith,0,28.5,2.0,"C D, nan, nan, C D, "
+72,Saad,0,,0.0,"nan, nan, "
+73,Goodwin,0,18.0,0.0,"nan, nan, nan, nan, nan, nan, nan, nan, "
+74,Collyer,0,23.333333333333332,2.0,"14, nan, 14, "
+75,Louch,0,46.0,2.0,"nan, nan, "
+76,Cook,0,32.5,0.0,"14, nan, "
+77,Hold,0,36.5,2.0,"nan, 10, "
+78,Abelson,0,29.0,2.0,"nan, 10, "
+79,Compton,0,46.666666666666664,2.0,"14, nan, 14, "
+80,Lines,0,33.5,2.0,"9, 9, "
+81,Attalah,0,23.5,0.0,"nan, nan, "
+82,McCoy,0,,2.0,"16, 16, 16, "
+83,Thorneycroft,0,,2.0,"nan, 10, "
+84,Frolicher,0,43.333333333333336,2.0,"5, 5, 5, "
+85,Hakkarainen,0,26.0,2.0,"nan, 15, "
+86,Danbom,0,20.77776666666667,0.0,"nan, nan, nan, "
+87,Holverson,0,38.5,2.0,"nan, 8, "
+88,Rosblom,0,20.333333333333332,0.0,"nan, nan, nan, "
+89,Stengel,0,48.5,2.0,"1, 5, "
+90,Svensson,0,37.333333333333336,0.0,"nan, 13, nan, "
+91,Canavan,0,21.0,0.0,"nan, nan, "
+92,Penasco,0,17.5,2.0,"nan, 8, "
+93,Turpin,0,28.0,0.0,"nan, nan, "
+94,Fortune,0,36.333333333333336,2.0,"10, 10, 10, nan, nan, 10, "
+95,Andersson,0,19.818181818181817,0.0,"nan, nan, nan, D, nan, nan, nan, nan, A, nan, nan, "
+96,Beane,0,25.5,2.0,"13, 13, "
+97,Angle,0,35.0,2.0,"nan, 11, "
+98,Davison,0,,2.0,"nan, 16, "
+99,Abelseth,0,20.5,2.0,"16, A, "
+100,Johansson,0,28.2,0.0,"15, nan, nan, nan, nan, "
+101,Douglas,0,41.666666666666664,2.0,"nan, 6, 2, "
+102,Carrau,0,22.5,0.0,"nan, nan, "
+103,Williams,0,,0.0,"nan, A, nan, 14, nan, nan, "
+104,Mellinger,0,27.0,2.0,"14, 14, "
+105,Murphy,0,,2.0,"16, 16, 16, "
+106,Kiernan,0,,0.0,"nan, nan, "
+107,Panula,0,13.5,0.0,"nan, nan, nan, nan, nan, nan, "
+108,Morley,0,36.5,0.0,"nan, nan, "
+109,Allison,0,14.479175,0.0,"11, nan, nan, nan, "
+110,Becker,0,13.25,2.0,"11, 11, 13, 11, "
+111,Keane,0,,0.0,"10, nan, nan, "
+112,Wiklund,0,19.5,0.0,"nan, nan, "
+113,Straus,0,65.0,0.0,"nan, nan, "
+114,Thayer,0,35.0,2.0,"nan, B, 4, "
+115,Bishop,0,22.0,2.0,"7, 7, "
+116,Taussig,0,36.333333333333336,2.0,"8, nan, 8, "
+117,Lennon,0,,0.0,"nan, nan, "
+118,Lefebre,0,,0.0,"nan, nan, nan, nan, nan, "
+119,Spedden,0,30.333333333333332,2.0,"3, 3, 3, "
+120,Minahan,0,38.0,2.0,"nan, 14, 14, "
+121,Cardeza,0,47.0,2.0,"3, 3, "
+122,Boulos,0,,0.0,"nan, nan, nan, nan, "
+123,Nicola,0,13.0,2.0,"C, C, "
+124,de,0,30.1,0.0,"nan, 15, 13, 11, nan, "
+125,Petroff,0,,0.0,"nan, nan, "
+126,Richards,0,9.277766666666666,2.0,"4, 4, 4, "
+127,Duran,0,28.5,2.0,"12, 12, "
+128,Quick,0,14.333333333333334,2.0,"11, 11, 11, "
+129,Dyker,0,22.5,2.0,"nan, 16, "
+130,Moore,0,,0.0,"nan, nan, "
+131,Cumings,0,38.5,2.0,"nan, 4, "
+132,Allen,0,32.0,0.0,"2, nan, "
+133,Olsen,0,,0.0,"13, nan, nan, nan, "
+134,Fox,0,,0.0,"nan, nan, "
+135,Wright,0,44.0,2.0,"nan, 9, "
+136,Chronopoulos,0,22.0,0.0,"nan, nan, "
+137,Goldenberg,0,,2.0,"5, 5, "
+138,Johnson,0,22.166666666666668,2.0,"15, 15, nan, nan, nan, 15, "
+139,Jensen,0,28.333333333333332,0.0,"nan, nan, nan, "
+140,Flynn,0,,0.0,"5, nan, nan, "
+141,Hays,0,43.666666666666664,2.0,"7, nan, 3, "
+142,Backstrom,0,32.5,2.0,"D, nan, "
+143,Nasser,0,23.25,2.0,"nan, nan, "
+144,Harder,0,25.0,2.0,"5, 5, "
+145,Abbott,0,21.333333333333332,2.0,"nan, nan, A, "
+146,Jacobsohn,0,33.0,2.0,"nan, 12, "
+147,Hansen,0,33.25,2.0,"nan, nan, nan, 11, "
+148,Palsson,0,9.6,0.0,"nan, nan, nan, nan, nan, "
+149,Nilsson,0,21.666666666666668,0.0,"D, 13, nan, "
+150,Hart,0,,0.0,"14, nan, 14, nan, "
+151,Graham,0,38.333333333333336,2.0,"3, nan, 3, "
+152,Pokrnic,0,20.5,0.0,"nan, nan, "
+153,Kantor,0,29.0,2.0,"nan, 12, "
+154,Pears,0,25.5,2.0,"nan, 8, "
+155,Drew,0,28.0,2.0,"10, nan, 10, "
+156,Carr,0,26.5,0.0,"16, nan, "
+157,Watt,0,26.0,2.0,"9, 9, "
+158,Davies,0,22.571428571428573,0.0,"14, nan, 14, nan, nan, nan, nan, "
+159,Dean,0,15.041675,2.0,"10, 10, nan, 10, "
+160,Barbara,0,31.5,0.0,"nan, nan, "
+161,Widener,0,42.333333333333336,2.0,"nan, nan, 4, "
+162,Oreskovic,0,21.0,0.0,"nan, nan, nan, "
+163,Dick,0,24.0,2.0,"3, 3, "
+164,Strom,0,15.5,0.0,"nan, nan, "
+165,Ilmakangas,0,26.0,0.0,"nan, nan, "
+166,Foley,0,,0.0,"nan, nan, "
+167,Hoyt,0,,2.0,"D, 14, D, "
+168,Lindell,0,33.0,0.0,"A, A, "
+169,Lobb,0,28.0,0.0,"nan, nan, "
+170,Ryerson,0,32.2,2.0,"4, 4, 4, nan, 4, "
+171,Asplund,0,17.0,2.0,"nan, nan, 15, nan, 15, nan, 13, 15, "
+172,Silvey,0,44.5,2.0,"nan, 11, "
+173,Christy,0,35.0,2.0,"12, 12, "
+174,Faunthorpe,0,34.5,2.0,"nan, 16, "
+175,Cor,0,27.0,0.0,"nan, nan, nan, "
+176,Ford,0,,0.0,"nan, nan, nan, nan, nan, nan, "
+177,Laroche,0,12.75,2.0,"14, 14, nan, 14, "
+178,Peacock,0,9.916666666666666,0.0,"nan, nan, nan, "
+179,Carter,0,32.5,0.0,"4, 4, C, 4, nan, nan, "
+180,Moran,0,,0.0,"16, nan, nan, "
+181,Dennis,0,29.0,0.0,"nan, nan, "
+182,Ostby,0,43.5,0.0,"5, nan, "
+183,Duff,0,48.5,2.0,"1, 1, "
+184,Carlsson,0,28.333333333333332,0.0,"nan, nan, nan, "
+185,Coleff,0,30.0,0.0,"nan, nan, "
+186,Andersen,0,25.5,2.0,"nan, 16, "
+187,Sandstrom,0,9.666666666666666,2.0,"13, 13, 13, "
+188,Cavendish,0,56.0,2.0,"nan, 6, "
+189,Frauenthal,0,,2.0,"5, 5, 5, "
+190,Bradley,0,,2.0,"9, 13, "
+191,Warren,0,,0.0,"nan, 5, nan, "
+192,Mallet,0,18.666666666666668,2.0,"10, nan, 10, "
+193,Caldwell,0,16.27776666666667,2.0,"13, 13, 13, "
+194,West,0,18.729174999999998,2.0,"10, 10, nan, 10, "
+195,Coutts,0,16.0,2.0,"2, 2, 2, "
+196,Newell,0,37.333333333333336,0.0,"6, 6, nan, "
+197,Kink,0,21.4,2.0,"nan, nan, 2, 2, 2, "
+198,Davidson,0,29.0,2.0,"nan, 3, "
+199,O,0,,0.0,"nan, nan, nan, nan, nan, nan, nan, D, nan, B, 13, nan, "
+200,Stanley,0,22.0,0.0,"C, nan, "
+201,Baxter,0,37.0,2.0,"nan, 6, "
+202,Taylor,0,,2.0,"5 7, 5 7, "
+203,Caram,0,,0.0,"nan, nan, "
+204,Gale,0,36.0,0.0,"nan, nan, "
+205,Ware,0,,0.0,"nan, nan, 10, nan, "
+206,Wick,0,44.333333333333336,2.0,"8, nan, 8, "
+207,Buckley,0,19.75,2.0,"nan, 13, "
+208,Larsson,0,26.666666666666668,0.0,"nan, nan, nan, "
+209,van,0,,0.0,"nan, nan, nan, nan, "
+210,Bowen,0,33.0,0.0,"4, nan, "
+211,Chaffee,0,46.5,2.0,"nan, 4, "
+212,Vande,0,30.5,0.0,"nan, nan, "
+213,Olsson,0,30.333333333333332,2.0,"nan, nan, A, "
+214,Assaf,0,33.0,0.0,"C, nan, "
+215,Bryhl,0,22.5,0.0,"12, nan, "
+216,Herman,0,36.25,2.0,"9, 9, nan, 9, "
+217,Hamalainen,0,12.33335,2.0,"4, 4, "
+218,Franklin,0,,0.0,"nan, nan, "
+219,Johnston,0,,0.0,"nan, nan, nan, nan, "
+220,Karlsson,0,25.333333333333332,0.0,"13, nan, nan, "
+221,Crosby,0,56.666666666666664,2.0,"nan, 7, 7, "
+222,Risien,0,,0.0,"nan, nan, "
+223,Touma,0,15.0,2.0,"C, C, C, "
+224,Lahtinen,0,28.0,0.0,"nan, nan, "
+225,Webber,0,,0.0,"12, nan, "
+226,Lam,0,,0.0,"C, nan, "
+227,Gustafsson,0,26.0,0.0,"nan, nan, nan, nan, "
+228,Moubarek,0,,2.0,"C, C, C, "
+229,Andrew,0,21.5,0.0,"nan, nan, "
+230,Wells,0,11.666666666666666,2.0,"14, 14, 14, "
+231,Giles,0,22.0,0.0,"nan, nan, nan, "
+232,Andrews,0,51.0,0.0,"10, nan, "
+233,Kenyon,0,,2.0,"nan, 8, "
+234,Chambers,0,30.0,2.0,"5, 5, "
+235,Navratil,0,13.833333333333334,0.0,"D, D, nan, "
+236,Mahon,0,,0.0,"nan, nan, "
+237,Fleming,0,,0.0,"4, nan, "
+238,Baclini,0,7.625,2.0,"C, C, C, C, "
+239,Daher,1,22.5,0.0,
+240,Barah,1,20.0,1.0,15
+241,Berriman,1,23.0,0.0,
+242,Murdlin,1,,0.0,
+243,Salonen,1,39.0,0.0,
+244,Bailey,1,18.0,0.0,
+245,Schmidt,1,26.0,0.0,
+246,Lemberopolous,1,34.5,0.0,
+247,Yousif,1,,0.0,
+248,Plotcharsky,1,,0.0,
+249,Allum,1,18.0,0.0,
+250,Weir,1,60.0,0.0,
+251,Payne,1,23.0,0.0,
+252,McKane,1,46.0,0.0,
+253,Yousseff,1,,0.0,
+254,Blackwell,1,45.0,0.0,
+255,Tenglin,1,25.0,1.0,13 15
+256,Dakic,1,19.0,0.0,
+257,Strilic,1,27.0,0.0,
+258,Crafton,1,,0.0,
+259,Shaughnessy,1,,0.0,
+260,Lingane,1,61.0,0.0,
+261,Stead,1,62.0,0.0,
+262,Mudd,1,16.0,0.0,
+263,Henry,1,,0.0,
+264,Tobin,1,,0.0,
+265,Leitch,1,,1.0,11
+266,Kallio,1,17.0,0.0,
+267,Birkeland,1,21.0,0.0,
+268,Lindahl,1,25.0,0.0,
+269,Parkes,1,,0.0,
+270,Parker,1,28.0,0.0,
+271,Somerton,1,30.0,0.0,
+272,Mionoff,1,28.0,0.0,
+273,Pernot,1,,0.0,
+274,Brobeck,1,22.0,0.0,
+275,Honkanen,1,27.0,1.0,
+276,Brewe,1,,0.0,
+277,Partner,1,45.5,0.0,
+278,Dantcheff,1,25.0,0.0,
+279,Corbett,1,30.0,0.0,
+280,Nenkoff,1,,0.0,
+281,Dimic,1,42.0,0.0,
+282,Calderhead,1,42.0,1.0,5
+283,Long,1,29.0,0.0,
+284,Hilliard,1,,0.0,
+285,McCrae,1,32.0,0.0,
+286,Ahlin,1,40.0,0.0,
+287,Head,1,42.0,0.0,
+288,Newsom,1,19.0,1.0,5
+289,Torfa,1,,0.0,
+290,Nosworthy,1,21.0,0.0,
+291,Mayne,1,24.0,1.0,6
+292,Bystrom,1,42.0,1.0,
+293,Tucker,1,31.0,1.0,7
+294,Harmer,1,25.0,0.0,B
+295,Heikkinen,1,26.0,1.0,
+296,Reed,1,,0.0,
+297,Ling,1,28.0,0.0,
+298,Goldschmidt,1,71.0,0.0,
+299,Nourney,1,20.0,1.0,7
+300,Swift,1,48.0,1.0,8
+301,Baumann,1,,0.0,
+302,Makinen,1,29.0,0.0,
+303,Christmann,1,29.0,0.0,
+304,Bostandyeff,1,26.0,0.0,
+305,Cunningham,1,,0.0,
+306,Landergren,1,22.0,1.0,13
+307,Fahlstrom,1,18.0,0.0,
+308,Laitinen,1,37.0,0.0,
+309,Padro,1,,1.0,9
+310,Green,1,51.0,0.0,
+311,Badman,1,18.0,1.0,C
+312,Sincock,1,20.0,1.0,11
+313,Bowenur,1,42.0,0.0,
+314,Ridsdale,1,50.0,1.0,13
+315,Fischer,1,18.0,0.0,
+316,Roth,1,,1.0,C
+317,Cann,1,21.0,0.0,
+318,Guggenheim,1,46.0,0.0,
+319,Linehan,1,,0.0,
+320,Ilett,1,17.0,1.0,
+321,Shutes,1,40.0,1.0,3
+322,Sobey,1,25.0,0.0,
+323,Collander,1,28.0,0.0,
+324,Najib,1,15.0,1.0,C
+325,Jardin,1,,0.0,
+326,Pinsky,1,32.0,1.0,9
+327,Mangiavacchi,1,,0.0,
+328,Jenkin,1,32.0,0.0,
+329,Daniels,1,33.0,1.0,8
+330,Markoff,1,35.0,0.0,
+331,Spinner,1,32.0,0.0,
+332,Wiseman,1,,0.0,
+333,Mock,1,30.0,1.0,11
+334,Madigan,1,,1.0,15
+335,Dooley,1,32.0,0.0,
+336,Corn,1,30.0,0.0,
+337,Montvila,1,27.0,0.0,
+338,Perreault,1,30.0,1.0,3
+339,Patchett,1,19.0,0.0,
+340,Sivola,1,21.0,0.0,
+341,Bowerman,1,22.0,1.0,6
+342,Nysten,1,22.0,1.0,13
+343,Conlon,1,31.0,0.0,
+344,Lang,1,26.0,1.0,14
+345,Dowdell,1,30.0,1.0,13
+346,Lane,1,,0.0,
+347,Novel,1,28.5,0.0,
+348,McCaffry,1,46.0,0.0,
+349,Vanden,1,28.0,0.0,
+350,Lindqvist,1,20.0,1.0,15
+351,Lurette,1,58.0,1.0,
+352,Leinonen,1,32.0,0.0,
+353,Markun,1,33.0,0.0,
+354,Braf,1,20.0,0.0,
+355,Slabenoff,1,,0.0,
+356,Hagardon,1,17.0,0.0,
+357,Peters,1,,0.0,
+358,Hipkins,1,55.0,0.0,
+359,Matinoff,1,,0.0,
+360,Salomon,1,,1.0,1
+361,Lewy,1,,0.0,
+362,Mernagh,1,,0.0,
+363,Moussa,1,,1.0,
+364,Klaber,1,,0.0,
+365,Haas,1,24.0,0.0,
+366,Porter,1,47.0,0.0,
+367,Nysveen,1,61.0,0.0,
+368,Oxenham,1,22.0,1.0,13
+369,McMahon,1,,0.0,
+370,Harbeck,1,44.0,0.0,
+371,Doharr,1,,0.0,
+372,Stahelin,1,32.0,1.0,3
+373,Lovell,1,20.5,0.0,
+374,Maisner,1,,0.0,
+375,Jarvis,1,47.0,0.0,
+376,Midtsjo,1,21.0,1.0,15
+377,Connors,1,70.5,0.0,
+378,Fillbrook,1,18.0,0.0,
+379,Kreuchen,1,39.0,1.0,2
+380,Gallagher,1,25.0,0.0,
+381,Givard,1,30.0,0.0,
+382,Henriksson,1,28.0,0.0,
+383,Bracken,1,27.0,0.0,
+384,Blank,1,40.0,1.0,7
+385,Emanuel,1,5.0,1.0,13
+386,Silven,1,18.0,1.0,16
+387,Emir,1,,0.0,
+388,Petersen,1,24.0,0.0,
+389,Wheadon,1,66.0,0.0,
+390,Farrell,1,40.5,0.0,
+391,Sweet,1,14.0,0.0,
+392,Mannion,1,,1.0,16
+393,Abrahim,1,18.0,1.0,C
+394,Moraweck,1,54.0,0.0,
+395,Healy,1,,1.0,16
+396,Veal,1,40.0,0.0,
+397,Willer,1,,0.0,
+398,Aubart,1,24.0,1.0,9
+399,Wilson,1,31.0,1.0,3
+400,Moss,1,,1.0,B
+401,Brandeis,1,48.0,0.0,
+402,Lundin,1,23.0,1.0,10
+403,Sirota,1,,0.0,
+404,Myhrman,1,18.0,0.0,
+405,Kraeff,1,,0.0,
+406,Nesson,1,26.0,0.0,
+407,Mitkoff,1,,0.0,
+408,Garside,1,34.0,1.0,12
+409,Bird,1,29.0,1.0,8
+410,Ashby,1,57.0,0.0,
+411,Lesurer,1,35.0,1.0,3
+412,Stanton,1,41.0,0.0,
+413,Dahl,1,45.0,1.0,15
+414,Farthing,1,,0.0,
+415,Francatelli,1,30.0,1.0,1
+416,Gronnestad,1,32.0,0.0,
+417,Naughton,1,,0.0,
+418,Eklund,1,16.0,0.0,
+419,Barber,1,26.0,1.0,6
+420,Simonius,1,56.0,1.0,3
+421,Leeni,1,22.0,1.0,6
+422,Tornquist,1,25.0,1.0,15
+423,Rosenshine,1,46.0,0.0,
+424,Stokes,1,25.0,0.0,
+425,Ayoub,1,13.0,1.0,C
+426,Wilkes,1,47.0,1.0,
+427,Slemen,1,35.0,0.0,
+428,Pickard,1,32.0,1.0,9
+429,Abbing,1,42.0,0.0,
+430,Scanlan,1,,0.0,
+431,Artagaveytia,1,71.0,0.0,
+432,Sivic,1,40.0,0.0,
+433,Harrington,1,,0.0,
+434,Seward,1,34.0,1.0,7
+435,Milling,1,48.0,0.0,
+436,Mockler,1,,1.0,16
+437,Potter,1,56.0,1.0,7
+438,Storey,1,60.5,0.0,
+439,Duquemin,1,24.0,1.0,D
+440,Mineff,1,24.0,0.0,
+441,Chevre,1,45.0,1.0,7
+442,Rothes,1,33.0,1.0,8
+443,Lindeberg,1,42.0,0.0,
+444,Wheeler,1,,0.0,
+445,Willard,1,21.0,1.0,8 10
+446,Cassebeer,1,,1.0,5
+447,Meo,1,55.5,0.0,
+448,Minkoff,1,21.0,0.0,
+449,Smyth,1,,1.0,13
+450,Gilbert,1,47.0,0.0,
+451,Ross,1,36.0,0.0,
+452,Everett,1,40.5,0.0,
+453,Dibden,1,18.0,0.0,
+454,Turkula,1,63.0,1.0,15
+455,Holm,1,43.0,0.0,
+456,Wittevrongel,1,36.0,0.0,
+457,Ward,1,35.0,1.0,3
+458,Sirayanian,1,22.0,0.0,
+459,McGough,1,36.0,1.0,7
+460,Stone,1,62.0,1.0,6
+461,Meek,1,,0.0,
+462,Maenpaa,1,22.0,0.0,
+463,Carbines,1,19.0,0.0,
+464,Johannesen,1,,1.0,13
+465,McEvoy,1,,0.0,
+466,Osen,1,16.0,0.0,
+467,Perkin,1,22.0,0.0,
+468,Parr,1,,0.0,
+469,Rosenbaum,1,33.0,1.0,11
+470,Evans,1,36.0,0.0,
+471,Julian,1,50.0,0.0,
+472,Bissette,1,35.0,1.0,8
+473,Rommetvedt,1,,0.0,
+474,Lamb,1,,0.0,
+475,Asim,1,35.0,0.0,
+476,Sundman,1,44.0,1.0,15
+477,Peltomaki,1,25.0,0.0,
+478,Albimona,1,26.0,1.0,15
+479,Riihivouri,1,22.0,0.0,
+480,Fry,1,,0.0,
+481,Isham,1,50.0,0.0,
+482,Levy,1,36.0,0.0,
+483,Osman,1,31.0,1.0,
+484,Walcroft,1,31.0,1.0,14
+485,Mitchell,1,70.0,0.0,
+486,Frost,1,,0.0,
+487,Simmons,1,,0.0,
+488,Schabert,1,35.0,1.0,11
+489,Matthews,1,30.0,0.0,
+490,Troutt,1,27.0,1.0,16
+491,Balkic,1,26.0,0.0,
+492,Otter,1,39.0,0.0,
+493,Keeping,1,32.5,0.0,
+494,Deacon,1,17.0,0.0,
+495,Portaluppi,1,30.0,1.0,14
+496,Lahoud,1,,0.0,
+497,Turja,1,18.0,1.0,15
+498,Sutehall,1,25.0,0.0,
+499,Bentham,1,19.0,1.0,12
+500,Downton,1,54.0,0.0,
+501,Lester,1,39.0,0.0,
+502,McDermott,1,,1.0,13
+503,Coleridge,1,29.0,0.0,
+504,Salander,1,24.0,0.0,
+505,Alexander,1,26.0,0.0,
+506,Hiltunen,1,18.0,0.0,
+507,Endres,1,38.0,1.0,4
+508,Richard,1,23.0,0.0,
+509,Beattie,1,36.0,0.0,A
+510,Widegren,1,51.0,0.0,
+511,Pasic,1,21.0,0.0,
+512,Karnes,1,22.0,0.0,
+513,Rowe,1,33.0,0.0,
+514,Elsbury,1,47.0,0.0,
+515,Foo,1,,1.0,13
+516,Barton,1,22.0,0.0,
+517,Vestrom,1,14.0,0.0,
+518,LeRoy,1,30.0,1.0,2
+519,Dika,1,17.0,0.0,
+520,Hodges,1,50.0,0.0,
+521,Duane,1,65.0,0.0,
+522,Gilnagh,1,16.0,1.0,16
+523,Smiljanic,1,,0.0,
+524,Byles,1,42.0,0.0,
+525,Sadlier,1,,0.0,
+526,Nicholls,1,19.0,0.0,
+527,Bing,1,32.0,1.0,C
+528,Jones,1,46.0,0.0,
+529,Denbury,1,25.0,0.0,
+530,Kvillner,1,31.0,0.0,
+531,MacKay,1,,0.0,
+532,Naidenoff,1,22.0,0.0,
+533,Chibnall,1,,1.0,6
+534,Knight,1,,0.0,
+535,Sadowitz,1,,0.0,
+536,Serepeca,1,30.0,1.0,4
+537,Krekorian,1,25.0,1.0,10
+538,Connaghton,1,31.0,0.0,
+539,Omont,1,,1.0,7
+540,Stoytcheff,1,19.0,0.0,
+541,Toomey,1,50.0,1.0,9
+542,Staneff,1,,0.0,
+543,Saundercock,1,20.0,0.0,
+544,Beavan,1,19.0,0.0,
+545,Goncalves,1,38.0,0.0,
+546,Abrahamsson,1,20.0,1.0,15
+547,Nancarrow,1,33.0,0.0,
+548,Miles,1,,0.0,
+549,Reynolds,1,21.0,0.0,
+550,Kilgannon,1,,0.0,
+551,Gracie,1,53.0,1.0,B
+552,Karaic,1,30.0,0.0,
+553,Spector,1,,0.0,
+554,Peduzzi,1,,0.0,
+555,Barry,1,27.0,0.0,
+556,Bidois,1,42.0,1.0,4
+557,Turcin,1,36.0,0.0,
+558,Colbert,1,24.0,0.0,
+559,Wenzel,1,32.5,0.0,
+560,Kent,1,58.0,0.0,
+561,Yrois,1,24.0,0.0,
+562,Celotti,1,24.0,0.0,
+563,Kirkland,1,57.0,0.0,
+564,Botsford,1,26.0,0.0,
+565,Colley,1,47.0,0.0,
+566,McNeill,1,,0.0,
+567,Pulbaum,1,27.0,0.0,
+568,Bjornstrom,1,28.0,1.0,D
+569,Rouse,1,50.0,0.0,
+570,Earnshaw,1,23.0,1.0,7
+571,Homer,1,35.0,1.0,15
+572,Stranden,1,31.0,1.0,9
+573,Brocklebank,1,35.0,0.0,
+574,Molson,1,55.0,0.0,
+575,Mardirosian,1,,0.0,
+576,Icard,1,38.0,1.0,6
+577,Rekic,1,38.0,0.0,
+578,Gilinski,1,22.0,0.0,
+579,Ismay,1,49.0,1.0,C
+580,Reeves,1,36.0,0.0,
+581,Madsen,1,24.0,1.0,13
+582,Lundahl,1,51.0,0.0,
+583,Augustsson,1,23.0,0.0,
+584,Shorney,1,,0.0,
+585,Petranec,1,28.0,0.0,
+586,Pearce,1,,0.0,
+587,Paulner,1,,0.0,
+588,Kassem,1,,0.0,
+589,McCormack,1,,1.0,
+590,Clifford,1,,0.0,
+591,Heininen,1,23.0,0.0,
+592,Peuchen,1,52.0,1.0,6
+593,Masselmani,1,,1.0,C
+594,Rush,1,16.0,0.0,
+595,Anderson,1,48.0,1.0,3
+596,Butler,1,25.0,0.0,
+597,McCrie,1,30.0,0.0,
+598,Appleton,1,53.0,1.0,D
+599,Flegenheim,1,,1.0,7
+600,Pallas,1,29.0,1.0,9
+601,Candee,1,53.0,1.0,6
+602,Stankovic,1,33.0,0.0,
+603,Aldworth,1,30.0,0.0,
+604,Dahlberg,1,22.0,0.0,
+605,Olsvigen,1,20.0,0.0,
+606,Butt,1,45.0,0.0,
+607,Ringhini,1,22.0,0.0,
+608,Pengelly,1,19.0,0.0,
+609,Angheloff,1,26.0,0.0,
+610,Pekoniemi,1,21.0,0.0,
+611,Rheims,1,,1.0,A
+612,Theobald,1,34.0,0.0,
+613,Devaney,1,19.0,1.0,C
+614,Slocovski,1,,0.0,
+615,Chaudanson,1,36.0,1.0,4
+616,Carver,1,28.0,0.0,
+617,Baccos,1,20.0,0.0,
+618,Lockyer,1,,0.0,
+619,Hogeboom,1,51.0,1.0,10
+620,Sdycoff,1,,0.0,
+621,Cairns,1,,0.0,
+622,Berglund,1,22.0,0.0,
+623,Harknett,1,,0.0,
+624,Sagesser,1,24.0,1.0,9
+625,Vendel,1,20.0,0.0,
+626,Guest,1,,0.0,
+627,Petterson,1,25.0,0.0,
+628,Tikkanen,1,32.0,0.0,
+629,Hee,1,,1.0,C
+630,Hawksford,1,,1.0,3
+631,Leader,1,49.0,1.0,8
+632,Smart,1,56.0,0.0,
+633,Sheerlinck,1,29.0,1.0,11
+634,Myles,1,62.0,0.0,
+635,Pain,1,23.0,0.0,
+636,Lievens,1,24.0,0.0,
+637,Giglio,1,24.0,0.0,
+638,Robbins,1,,0.0,
+639,Bateman,1,51.0,0.0,
+640,Pettersson,1,18.0,0.0,
+641,Hewlett,1,55.0,1.0,13
+642,Cherry,1,30.0,1.0,8
+643,Doyle,1,24.0,0.0,
+644,Mack,1,57.0,0.0,
+645,Niskanen,1,39.0,1.0,9
+646,Moutal,1,,0.0,
+647,Badt,1,40.0,0.0,
+648,Adams,1,26.0,0.0,
+649,Windelov,1,21.0,0.0,
+650,Beauchamp,1,28.0,0.0,
+651,Birnbaum,1,25.0,0.0,
+652,Thorne,1,,1.0,D
+653,Shellard,1,,0.0,
+654,Razi,1,,0.0,
+655,Ovies,1,28.5,0.0,
+656,Hosono,1,42.0,1.0,10
+657,Hassan,1,11.0,0.0,
+658,Johanson,1,34.0,0.0,
+659,Nieminen,1,29.0,0.0,
+660,Jonkoff,1,23.0,0.0,
+661,Laleff,1,,0.0,
+662,Lemore,1,34.0,1.0,14
+663,Eustis,1,54.0,1.0,4
+664,Harrison,1,40.0,0.0,
+665,Campbell,1,,0.0,
+666,Natsch,1,37.0,0.0,
+667,Chip,1,32.0,1.0,C
+668,Hood,1,21.0,0.0,
+669,Adahl,1,30.0,0.0,
+670,McGovern,1,,1.0,13
+671,Mullens,1,,1.0,16
+672,Buss,1,36.0,1.0,9
+673,Vartanian,1,22.0,1.0,13 15
+674,Aronsson,1,24.0,0.0,
+675,Bjorklund,1,18.0,0.0,
+676,Baimbrigge,1,23.0,0.0,
+677,Sloper,1,28.0,1.0,7
+678,Moen,1,25.0,0.0,
+679,Trout,1,28.0,1.0,
+680,Foreman,1,30.0,0.0,
+681,Hampe,1,20.0,0.0,
+682,Silverthorne,1,35.0,1.0,5
+683,Zimmerman,1,29.0,0.0,
+684,Dorking,1,19.0,1.0,B
+685,Maybery,1,40.0,0.0,
+686,Rintamaki,1,35.0,0.0,
+687,Waelens,1,22.0,0.0,
+688,Shine,1,,1.0,
+689,Finoli,1,,1.0,15
+690,Maguire,1,30.0,0.0,
+691,Rood,1,,0.0,
+692,Ilieff,1,,0.0,
+693,Borebank,1,42.0,0.0,
+694,Dulles,1,39.0,0.0,
+695,Bazzani,1,32.0,1.0,8
+696,Rugg,1,21.0,1.0,12
+697,Millet,1,65.0,0.0,
+698,Mamee,1,,1.0,15
+699,Niklasson,1,28.0,0.0,
+700,Gheorgheff,1,,0.0,
+701,Sjoblom,1,18.0,1.0,16
+702,Swane,1,18.5,0.0,
+703,Daniel,1,27.0,1.0,3
+704,Danoff,1,27.0,0.0,
+705,Salkjelsvik,1,21.0,1.0,C
+706,Mulvihill,1,24.0,1.0,15
+707,Soholt,1,19.0,0.0,
+708,Bucknell,1,60.0,1.0,8
+709,Mellors,1,19.0,1.0,B
+710,Gill,1,24.0,0.0,
+711,Slayter,1,30.0,1.0,13
+712,Beesley,1,34.0,1.0,13
+713,Whabee,1,38.0,1.0,C
+714,Leonard,1,36.0,0.0,
+715,Sinkkonen,1,30.0,1.0,10
+716,Nirva,1,41.0,0.0,
+717,Saalfeld,1,,1.0,3
+718,Keefe,1,,0.0,A
+719,Hale,1,30.0,0.0,
+720,Oliva,1,39.0,1.0,8
+721,Robert,1,43.0,1.0,2
+722,Lyntakoff,1,,0.0,
+723,Pedersen,1,,0.0,
+724,Sawyer,1,24.5,0.0,
+725,Coelho,1,20.0,0.0,
+726,Nankoff,1,,0.0,
+727,Sedgwick,1,25.0,0.0,
+728,Hegarty,1,18.0,0.0,
+729,Roebling,1,31.0,0.0,
+730,Tomlin,1,30.5,0.0,
+731,Cohen,1,18.0,1.0,12
+732,Demetri,1,,0.0,
+733,Behr,1,26.0,1.0,5
+734,Sharp,1,27.0,0.0,
+735,Dintcheff,1,43.0,0.0,
+736,Loring,1,30.0,0.0,
+737,Denkoff,1,,0.0,
+738,Sjostedt,1,59.0,0.0,
+739,Woolner,1,,1.0,D
+740,Hyman,1,,1.0,C
+741,Hendekovic,1,28.0,0.0,
+742,Gaskell,1,16.0,0.0,
+743,Saether,1,38.5,0.0,
+744,Fynney,1,35.0,0.0,
+745,Burke,1,19.0,0.0,
+746,Delalic,1,25.0,0.0,
+747,Glynn,1,,1.0,13
+748,Pavlovic,1,32.0,0.0,
+749,Wirz,1,27.0,0.0,
+750,Troupiansky,1,23.0,0.0,
+751,Ekstrom,1,45.0,0.0,
+752,Romaine,1,45.0,1.0,9
+753,Lulic,1,27.0,1.0,15
+754,Chisholm,1,,0.0,
+755,Funk,1,38.0,0.0,
+756,Barkworth,1,80.0,1.0,B
+757,Katavelas,1,18.5,0.0,
+758,Brady,1,41.0,0.0,
+759,Wilhelms,1,31.0,1.0,9
+760,Uruchurtu,1,40.0,0.0,
+761,Marechal,1,,1.0,7
+762,Nicholson,1,64.0,0.0,
+763,Collett,1,24.0,1.0,9
+764,Jansson,1,21.0,1.0,A
+765,Corey,1,,0.0,
+766,Reynaldo,1,28.0,1.0,9
+767,Davis,1,28.0,1.0,13
+768,Ivanoff,1,,0.0,
+769,Banfield,1,28.0,0.0,
+770,Lindstrom,1,55.0,1.0,6
+771,Enander,1,21.0,0.0,
+772,Gavey,1,26.0,0.0,
+773,Torber,1,44.0,0.0,
+774,Willey,1,,0.0,
+775,Cameron,1,35.0,1.0,14
+776,Shelley,1,25.0,1.0,12
+777,Cotterill,1,21.0,0.0,
+778,Gillespie,1,34.0,0.0,
+779,Ibrahim,1,30.0,0.0,
+780,Malachard,1,,0.0,
+781,Hellstrom,1,22.0,1.0,C
+782,Cornell,1,55.0,1.0,2
+783,Young,1,36.0,1.0,8
+784,Rasmussen,1,,0.0,
+785,Lindblom,1,45.0,0.0,
+786,Andreasson,1,20.0,0.0,
+787,Charters,1,21.0,0.0,
+788,Persson,1,25.0,1.0,15
+789,Toufik,1,,0.0,
+790,Garfirth,1,,0.0,
+791,Ball,1,36.0,1.0,10
+792,Norman,1,28.0,0.0,
+793,Lehmann,1,17.0,1.0,12
+794,Thomson,1,,0.0,
+795,Assam,1,23.0,0.0,
+796,Vovk,1,22.0,0.0,
+797,Holthen,1,28.0,0.0,
+798,Parrish,1,50.0,1.0,12
+799,Jerwan,1,23.0,1.0,11
+800,Leyson,1,24.0,0.0,
+801,Sutton,1,61.0,0.0,
+802,Sap,1,25.0,1.0,11
+803,Gee,1,47.0,0.0,
+804,Bengtsson,1,26.0,0.0,
+805,Todoroff,1,,0.0,
+806,Stephenson,1,52.0,1.0,4
+807,Madill,1,15.0,1.0,2
+808,Crease,1,19.0,0.0,
+809,Coxon,1,59.0,0.0,
+810,Walker,1,47.0,0.0,
+811,Youseff,1,45.5,0.0,
+812,Drazenoic,1,33.0,0.0,
+813,Kalvik,1,21.0,0.0,
+814,Culumovic,1,17.0,0.0,
+815,Peruschitz,1,41.0,0.0,
+816,Greenberg,1,52.0,0.0,
+817,Eitemiller,1,23.0,0.0,
+818,Odahl,1,23.0,0.0,
+819,Saade,1,,0.0,
+820,Ohman,1,22.0,1.0,C
+821,Nasr,1,,0.0,
+822,Lundstrom,1,32.0,1.0,15
+823,Riordan,1,,1.0,13
+824,Ponesell,1,34.0,0.0,
+825,Lithman,1,,0.0,
+826,Jermyn,1,,1.0,D
+827,Hedman,1,27.0,1.0,15
+828,Nye,1,29.0,1.0,11
+829,Longley,1,21.0,1.0,10
+830,Alhomaki,1,20.0,0.0,
+831,Kennedy,1,,1.0,
+832,Watson,1,,0.0,
+833,Cleaver,1,22.0,1.0,11
+834,Drapkin,1,23.0,1.0,
+835,Meanwell,1,,0.0,
+836,Radeff,1,,0.0,
+837,Case,1,49.0,0.0,
+838,Edvardsson,1,18.0,0.0,
+839,Hanna,1,23.5,0.0,
+840,Hunt,1,33.0,0.0,
+841,Reuchlin,1,38.0,0.0,
+842,Humblen,1,42.0,0.0,
+843,Strandberg,1,22.0,0.0,
+844,Stewart,1,,0.0,
+845,Mangan,1,30.5,0.0,
+846,Morrow,1,,0.0,
+847,Sunderland,1,16.0,1.0,B
+848,Maioni,1,16.0,1.0,8
+849,Geiger,1,35.0,1.0,4
+850,Hassab,1,27.0,1.0,3
+851,Horgan,1,,0.0,
+852,Jalsevac,1,29.0,1.0,15
